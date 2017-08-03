@@ -1,0 +1,19 @@
+app-text/goldendict 9999: Feature-rich dictionary lookup program
+dev-games/openscenegraph 3.5.5 9999: Open source high performance 3D graphics toolkit
+dev-python/flvlib 0.1.13: Python library for parsing, manipulating and indexing FLV files
+dev-python/hsaudiotag 1.1.1: Python library for reading metadata (tags) of mp3, mp4, wma, ogg, flac and aiff files
+dev-python/python-mpd 0.5.4 9999: Python MPD client library
+games-action/multimc5 9999: An advanced open-source launcher for Minecraft written in Qt5.
+games-emulation/desmume 9999: Nintendo DS emulator
+games-emulation/pcsx2 9999: A PlayStation 2 emulator
+games-engines/openmw 9999: An open source reimplementation of TES III: Morrowind
+games-engines/rlvm 0.14 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
+media-gfx/hydrus 9999: *booru style image collector and viewer
+media-sound/cava 9999: Console-based Audio Visualizer for ALSA (=CAVA)
+media-sound/mopidy 9999: An extensible music server that plays music from local disk and more
+media-sound/mpd 9999: The Music Player Daemon (mpd)
+media-sound/pulsemixer 9999: A curses mixer for pulseaudio
+media-sound/vimpc 9999: An ncurses based mpd client with vi like key bindings
+net-analyzer/nethogs 9999: A small 'net top' tool, grouping bandwidth by process
+sci-physics/bullet 2.86: Continuous Collision Detection and Physics Library
+x11-misc/nvidia-xrun 9999: Script to run dedicated X server with discrete nvidia graphics
