@@ -31,7 +31,7 @@ RDEPEND="virtual/opengl
 	)"
 DEPEND="${DEPEND}
 	>=dev-util/cmake-3.6
-	doc? ( >=app-doc/doxygen-1.8.8[dot] )
+	>=app-doc/doxygen-1.8.8[dot]
 	!clang? ( >=sys-devel/gcc-5 )
 	clang? (
 		>=sys-devel/clang-3.8
