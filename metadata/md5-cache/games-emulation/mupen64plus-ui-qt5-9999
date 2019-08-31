@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install unpack
+DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-libs/libsdl2 games-emulation/mupen64plus-core games-emulation/mupen64plus-input-sdl app-arch/p7zip
+DESCRIPTION=mupen64plus GUI written in Qt5
+EAPI=7
+HOMEPAGE=https://github.com/m64p/mupen64plus-gui
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5 media-libs/libsdl2 games-emulation/mupen64plus-core games-emulation/mupen64plus-input-sdl app-arch/p7zip
+SLOT=0
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
+_md5_=bb93eb57beba99d10620170b58577924

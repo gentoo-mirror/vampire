@@ -8,10 +8,12 @@ games-emulation/citra:qt5 - Enable the Qt5 based interface
 games-emulation/citra:scripting - Enable support for scripting languages
 games-emulation/citra:sdl2 - Enable the SDL2 based interface
 games-emulation/citra:system-boost - Use the system-wide version of dev-libs/boost
-games-emulation/citra:telemetry - Allow transmitting anonymous usage data to the citra developers
+games-emulation/citra:system-libressl - Use the system-wide version of dev-libs/libressl
+games-emulation/citra:web - Allow web services, including multiplayer and telemetry option (transmitting anonymous usage data to the citra developers)
 games-emulation/desmume:glade - Use graphical interface based on glade; builds a sepearate binary
 games-emulation/desmume:gtk - Use graphical interface based on x11-libs/gtk+; builds a separate binary
 games-emulation/desmume:osmesa - Add support for Mesa off-screen rendering library
+games-emulation/mupen64plus-video-gliden64:egl - Target an EGL device
 games-engines/openmw:devtools - Install development tools like bsatool, esmtool and opencs.
 games-engines/openmw:installer - Build installer for copying game data from CDROM
 games-engines/openmw:launcher - Build launcher
@@ -24,6 +26,11 @@ games-fps/chocolate-doom:heretic - Install chocolate-heretic executable
 games-fps/chocolate-doom:hexen - Install chocolate-hexen executable
 games-fps/chocolate-doom:server - Enable installation of server
 games-fps/chocolate-doom:strife - Install chocolate-strife executable
+media-gfx/hydrus:ffmpeg - Show duration and other information on video thumbnails
+media-gfx/hydrus:lz4 - Enable memory compression in the client
+media-gfx/hydrus:matplotlib - Support drawing bandwidth graphs
+media-gfx/hydrus:miniupnpc - Support for automatic port forwarding
+media-gfx/hydrus:socks - Support SOCKS proxies
 media-sound/mpd:adplug - Enable the AdPlug decoder plugin
 media-sound/mpd:cdio - Use libcdio for ISO9660 parsing support
 media-sound/mpd:curl - Support for web stream listening
