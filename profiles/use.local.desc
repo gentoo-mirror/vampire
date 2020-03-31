@@ -59,5 +59,6 @@ media-sound/mpd:twolame - Support twolame MPEG-2 encoding
 media-sound/mpd:wildmidi - Enable MIDI support via wildmidi
 media-sound/mpd:zip - Support for ZIP files
 media-sound/vimpc:boost - Use boost instead of C++11 libraries
+x11-misc/nvidia-xrun:libglvnd - Use libglvnd for dispatch.
 x11-misc/redshift:appindicator - Enable usage of dev-libs/libappindicator to export menu options in to unity and KDE 5
 x11-misc/redshift:geoclue - Control dependency on app-misc/geoclue
