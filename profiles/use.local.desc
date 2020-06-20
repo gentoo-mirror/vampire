@@ -14,13 +14,6 @@ games-emulation/desmume:glade - Use graphical interface based on glade; builds a
 games-emulation/desmume:gtk - Use graphical interface based on x11-libs/gtk+; builds a separate binary
 games-emulation/desmume:osmesa - Add support for Mesa off-screen rendering library
 games-emulation/mupen64plus-video-gliden64:egl - Target an EGL device
-games-engines/openmw:devtools - Install development tools like bsatool, esmtool and opencs.
-games-engines/openmw:installer - Build installer for copying game data from CDROM
-games-engines/openmw:launcher - Build launcher
-games-engines/openmw:minimal - Don't build utilities that don't require extra dependencies
-games-engines/openmw:opencs - Build OpenMW Construction Set
-games-engines/openmw:profile - Enable code coverage with gconv
-games-engines/openmw:tr1 - Use TR1 libraries
 games-fps/chocolate-doom:doom - Install chocolate-doom executable
 games-fps/chocolate-doom:heretic - Install chocolate-heretic executable
 games-fps/chocolate-doom:hexen - Install chocolate-hexen executable

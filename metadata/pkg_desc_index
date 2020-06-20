@@ -9,7 +9,6 @@ games-emulation/citra 9999: Nintendo 3DS Emulator
 games-emulation/desmume 9999: Nintendo DS emulator
 games-emulation/mupen64plus-ui-qt5 9999: mupen64plus GUI written in Qt5
 games-emulation/mupen64plus-video-gliden64 9999: A new generation, open-source graphics plugin for N64 emulators.
-games-engines/openmw 9999: An open source reimplementation of TES III: Morrowind
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
 games-fps/chocolate-doom 9999: Doom, Heretic, Hexen and Strife port designed to act identically to original games
 media-gfx/hydrus 9999: *booru style image collector and viewer
