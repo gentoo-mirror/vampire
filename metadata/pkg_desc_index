@@ -1,7 +1,5 @@
 app-text/goldendict 9999: Feature-rich dictionary lookup program
 dev-libs/discord-rpc 9999: Discord RPC lib
-dev-python/flvlib 0.1.13: Python library for parsing, manipulating and indexing FLV files
-dev-python/hsaudiotag 1.1.1: Python library for reading metadata (tags) of mp3, mp4, wma, ogg, flac and aiff files
 dev-python/python-mpd 9999: Python MPD client library
 dev-qt/qtapng 9999: apng image plugin for Qt to support animated PNGs
 games-action/multimc5 9999: An advanced open-source launcher for Minecraft written in Qt5.
@@ -10,7 +8,6 @@ games-emulation/desmume 9999: Nintendo DS emulator
 games-emulation/mupen64plus-ui-qt5 9999: mupen64plus GUI written in Qt5
 games-emulation/mupen64plus-video-gliden64 9999: A new generation, open-source graphics plugin for N64 emulators.
 games-engines/rlvm 9999: An open source implementation of the RealLive virtual machine for Linux and OSX
-games-fps/chocolate-doom 9999: Doom, Heretic, Hexen and Strife port designed to act identically to original games
 media-gfx/hydrus 9999: *booru style image collector and viewer
 media-sound/cava 9999: Console-based Audio Visualizer for ALSA (=CAVA)
 media-sound/mpd 9999: The Music Player Daemon (mpd)
